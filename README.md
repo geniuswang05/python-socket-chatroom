@@ -1,5 +1,6 @@
-# python-socket-chatroom
-A socket-based client–server chatroom system in Python with GUI interface, chat indexing, and integrated mini games.
+# Python-socket-chatroom
+A socket-based client–server chatroom system in Python with GUI interface, chat indexing, and integrated mini games. 
+> Note: Originally developed during freshman year. The repository has been reorganized and documented for clarity.
 # Demo
 ### Login
 <p align="center">
